@@ -1,0 +1,22 @@
+body{
+    background-color: #d1fffc;
+    text-align: center;
+  }
+  canvas{
+    border-color: pink;
+    border-style: ridge;
+    border-width: 20px;
+    background-color: white;
+    margin-top: 30px;
+  }
+  #color{
+    margin-top: 15px;
+    border-width: 3px;
+    border-color: #314b5e;
+    color: #40753e;
+  }
+  #width{
+    border-width: 3px;
+    border-color: #314b5e;
+    color: #40753e;
+  }
